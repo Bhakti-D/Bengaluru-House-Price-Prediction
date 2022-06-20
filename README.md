@@ -1,6 +1,10 @@
 # Bengaluru-House-Price-Prediction
 
-##### Objective - Create a model to estimate the price of houses inBengaluru and host it on Heroku.
+##### Objective - Create a model to estimate the price of houses in the Bengaluru city and host the developed model on Heroku.
+
+###### Description of the project - 
+
+This is a Machine Learning model which integrates Data Science and Web Development.Housing prices fluctuate on a daily basis and are sometimes exaggerated rather than based on worth. The major focus of this project is on predicting house prices using genuine factors. The goal of this project is to learn Python and get experience in Data Analysis, Machine Learning
 
 #### Dataset Link - https://www.kaggle.com/datasets/ameythakur20/bangalore-house-prices
 
